@@ -8,9 +8,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Tensorflow
-Cv2
-Keras
+Tensorflow, 
+, Cv2, 
+Keras.
 
 ### How to Use the code
 
