@@ -29,5 +29,6 @@ To train your model i suggest you to use google colab to utilise the GPU option 
 Now go ahead and download the trained model and deploy it using the video capture script to interpret sign language characters.
 *Note keep the background while recording solid and better if white*
 
-
+### Demo Link
+https://www.linkedin.com/posts/shreyank-kini_deeplearning-computervision-ai-activity-6671772741181542400-oDqF
 
