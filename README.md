@@ -12,6 +12,9 @@ Tensorflow,
  Cv2, 
 Keras.
 
+### Link to the data set
+https://drive.google.com/file/d/1-3TcAgb6CAL_TiYbLIzDUFNKCMkYz-HR/view?usp=sharing
+
 ### How to Use the code
 
 Once the prerequisites are met, you can either directly download the model (acc:96%) and run the video capture script or you can follow the instructions to generate your own model.
