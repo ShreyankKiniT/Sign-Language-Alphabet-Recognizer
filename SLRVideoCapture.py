@@ -110,12 +110,12 @@ while True:
     cv2.imshow("test",frame)
     cv2.imshow("mask",mask)
 
-    #if cv2.waitkey(1)==ord('c')
+    
 
     img_name='1.png'
     save_img=cv2.resize(mask,(image_x,image_y))
     cv2.imwrite(img_name,save_img)
-    #print("{}written!".format(img_name))
+    
     img_text=predictor()
 
     if cv2.waitKey(1)==27:
